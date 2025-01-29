@@ -1,0 +1,44 @@
+{
+	"Sources/Methods/GraphAPI_getToken.4dm": {
+		"left": 1187,
+		"top": 259,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Methods/graphAPI_setBlob.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Methods/graphAPI_getBlob.4dm": {
+		"left": 134,
+		"top": 109,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Methods/tokenize.4dm": {
+		"left": 968,
+		"top": 122,
+		"width": 965,
+		"height": 922
+	},
+	"Sources/Methods/detokenize.4dm": {
+		"left": 968,
+		"top": 122,
+		"width": 965,
+		"height": 922
+	},
+	"Sources/Methods/isComponent.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Methods/4Dcontext.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	}
+}

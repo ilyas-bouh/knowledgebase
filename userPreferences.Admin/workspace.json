@@ -1,0 +1,23 @@
+{
+	"editors": [
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483643,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "detokenize"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "GraphAPI_getToken"
+			}
+		}
+	]
+}

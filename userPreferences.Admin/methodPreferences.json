@@ -1,0 +1,65 @@
+{
+	"Sources/Methods/GraphAPI_getToken.4dm": {
+		"startSelection": 34,
+		"endSelection": 34,
+		"firstSelectedLine": 24,
+		"lastSelectedLine": 24,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:18:47.770Z"
+	},
+	"Sources/Methods/graphAPI_setBlob.4dm": {
+		"startSelection": 11,
+		"endSelection": 11,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 17,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:18:29.660Z"
+	},
+	"Sources/Methods/graphAPI_getBlob.4dm": {
+		"startSelection": 22,
+		"endSelection": 22,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:18:16.589Z"
+	},
+	"Sources/Methods/tokenize.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:48:18.835Z"
+	},
+	"Sources/Methods/detokenize.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:48:31.601Z"
+	},
+	"Sources/Methods/isComponent.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:50:53.889Z"
+	},
+	"Sources/Methods/4Dcontext.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-01-29T13:53:47.872Z"
+	}
+}
