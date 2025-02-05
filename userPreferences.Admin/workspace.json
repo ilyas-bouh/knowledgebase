@@ -5,7 +5,7 @@
 		},
 		{
 			"type": "method",
-			"id": 2147483643,
+			"id": 2147483646,
 			"codeDescriptor": {
 				"type": 1,
 				"methodName": "detokenize"
@@ -13,7 +13,7 @@
 		},
 		{
 			"type": "method",
-			"id": 2147483646,
+			"id": 2147483644,
 			"codeDescriptor": {
 				"type": 1,
 				"methodName": "GraphAPI_getToken"
